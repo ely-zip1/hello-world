@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+Hi!
+ I'm Elisha and this is my first branch edit.
